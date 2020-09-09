@@ -1,0 +1,15 @@
+README.md
+setup.py
+ResearchPlot/__init__.py
+ResearchPlot/_version.py
+ResearchPlot/aps.py
+ResearchPlot/colors.py
+ResearchPlot/general.py
+ResearchPlot/layout.py
+ResearchPlot/styles.py
+ResearchPlot.egg-info/PKG-INFO
+ResearchPlot.egg-info/SOURCES.txt
+ResearchPlot.egg-info/dependency_links.txt
+ResearchPlot.egg-info/not-zip-safe
+ResearchPlot.egg-info/requires.txt
+ResearchPlot.egg-info/top_level.txt
